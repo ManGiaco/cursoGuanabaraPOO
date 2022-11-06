@@ -12,7 +12,5 @@ public class Aula03 {
 		c1.status();
 		c1.rabiscar();
 
-		
-
 	}
 }
