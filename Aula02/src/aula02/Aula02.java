@@ -15,10 +15,6 @@ public class Aula02 {
 		c2.modelo = "bic";
 		c2.destampar();
 		c2.status();
-		c2.rabiscar();
-				
-		
-		
-		
+		c2.rabiscar();		
 	}
 }
